@@ -1,4 +1,4 @@
-**resdmp**,*also referred to as enumres*, dumps the string resources from a native PE module into an XML format,
+**resdmp**,*later renamed to enumres to avoid confusion with the other tool rescmp*, dumps the string resources from a native PE module into an XML format,
 also parses and converts text-based resource files like idt and adm files. 
 Supported files types are dll, exe, vrs, cxmi, idt, adm and xml files.
 
