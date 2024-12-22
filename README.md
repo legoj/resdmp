@@ -9,7 +9,7 @@ your are running the tool. I would recommend you to copy the binaries locally an
 
 ### [Usage]
     Options:
-    /i path1[;path2;path3]    -dir or file paths. required]
+    /i path1[;path2;path3]    -dir or file paths. required
     /f extName1[;eN2;eN3]     -extension filenames (dll;exe;vrs;cxmi;idt;adm;xml). optional
     /x fileName1[;fN2;fN3]    -excluded file names. optional
     /o outputDirPath          -output directory. optional
